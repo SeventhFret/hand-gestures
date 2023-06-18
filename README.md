@@ -1,6 +1,6 @@
 # Landmarks recognition project with Mediapipe in Python with camera on Freenove ESP32-WROVER-Cam-board
 
-<img src="docs/main-pic.jpg" alt="Microcontroller board" style="border-radius: 20px;" />
+![Motherboard pic](/docs/main-pic.jpg)
 
 
 ## Table of contents
@@ -47,7 +47,7 @@ Technologies that have been used in project
 is change volume. You have to put up your thumb and indexing finger, and according to distance between them, you can change volume. When you choosed your desired volume level - simply keep fingers in that position for 3 seconds, afterwards - volume will be changed.
 
 
-<img src="docs/first-gesutre.jpg" alt="Microcontroller board" style="border-radius: 20px;" />
+![First gesture pic](/docs/first-gesutre.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ is change volume. You have to put up your thumb and indexing finger, and accordi
 
 is to move the cursor. To do so, you have to put up your indexing finger, and then you'll see space, where you can move your finger. If you want to make click - you can put up middle finger along with indexing one, and this will click the mouse.
 
-<img src="docs/second-gesture.jpg" alt="Second gesture" style="border-radius: 20px;" />
+![Second gesture pic](/docs/second-gesture.jpg)
 
 ### Third gesture
 is to put up your indexing and middle finger in the same time, that will press Space key of your keyboard. This made to open previews on macOS.
