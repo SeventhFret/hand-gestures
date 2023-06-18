@@ -30,6 +30,7 @@ For now, project has only four main gestures:
 Technologies that have been used in project
 
 ### Hardware
+In hardware part, I've used ArduinoIDE to program microcontroller to create IP-Webcam server on motherboard to continuously transfer video stream.
 + Freenove ESP32-WROVER-Cam board
 + Omni Vision 2640 Camera module
 ### Software
